@@ -12,4 +12,11 @@ The goal is to inspire me to consistently to read the [Machine Learning from Scr
 
 ### NOTE: 
 It's not realistic to read one chapter a day, or read every day. 
-Hence, we set the goal to record what you read each single day.
+Hence, we set the goal to record what you read each single day.(1 day for 1 Pomodoro)
+
+[Markdown Generated from Tables Generator](https://www.tablesgenerator.com/markdown_tables)
+| Date    | Day | Finished chapter and Pages                                                      |   |   |
+|---------|-----|---------------------------------------------------------------------------------|---|---|
+| May.3rd | 1   | 1. ORDINARY LINEAR REGRESSION<br><br>Concept Approach<br><br>1: Minimizing Loss |   |   |
+|         |     |                                                                                 |   |   |
+|         |     |                                                                                 |   |   |
